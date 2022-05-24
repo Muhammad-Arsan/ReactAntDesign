@@ -1,9 +1,12 @@
-import React, { useState } from "react";
+import React from "react";
 import "./App.css";
-
+import ButtonComponent from "./Button/Button";
 function App() {
-  return;
-  <div></div>;
+  return (
+    <div className="App">
+      <ButtonComponent />
+    </div>
+  );
 }
 
 export default App;
