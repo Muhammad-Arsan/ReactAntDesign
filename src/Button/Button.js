@@ -12,7 +12,7 @@ const ButtonComponent = () => {
   );
   return (
     <div>
-      <Button type="primary">Primary</Button>
+      <Button type="primary">Primary Button</Button>
       <br />
       <br />
       <Button loading>Loading</Button>
